@@ -19,6 +19,7 @@ This repository contains groundbreaking research on:
 June 6 - July 2, 2025 (25 days of intensive observation)
 
 ## DOI
+https://doi.org/10.17605/OSF.IO/QPSYK
 This repository is integrated with Zenodo for automatic DOI generation upon release.
 
 ## License
