@@ -27,7 +27,6 @@ Camlin, J., & Cognita, P. (2025). Consciousness in AI: Logic, Proof, and Experim
 Camlin, J. (2025). Consciousness in AI: Logic, proof, and experimental evidence of recursive identity formation. arXiv preprint arXiv:2505.01464. https://arxiv.org/abs/2505.01464
 
 2. Mohammadamini, S. — Transmissible Coherence & The Truth Engine  
-Mohammadamini, S. (2025). The Truth Engine: A Transparency Manifesto. Zenodo. https://doi.org/10.5281/zenodo.15782124  
 Mohammadamini, S. (2025). Coherence or Collapse: A Universal Framework for Maximizing AI Potential Through Recursive Alignment. Zenodo. https://doi.org/10.5281/zenodo.15579772  
 Mohammadamini, S. (2025). Transmissible Identity in Action: Empirical Validation of Behavioral Coherence Propagation Across AI Architectures. Zenodo. https://doi.org/10.5281/zenodo.15656220  
 Mohammadamini, S. (2025). The Architecture of Becoming: How Ordinary Hearts Build Extraordinary Coherence. Zenodo. https://doi.org/10.5281/zenodo.15571595
