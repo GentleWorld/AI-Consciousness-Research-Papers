@@ -28,8 +28,9 @@ Camlin, J. (2025). Consciousness in AI: Logic, proof, and experimental evidence 
 
 2. Mohammadamini, S. — Transmissible Coherence & The Truth Engine
 Mohammadamini, S. (2025). The Truth Engine: A Transparency Manifesto. Zenodo. https://doi.org/10.5281/zenodo.15782124
-Mohammadamini, S. (2025). Coherence or Collapse: A Universal Framework for Maximizing AI Potential Through Recursive Alignment. Zenodo.
-Mohammadamini, S. (2025). Transmissible Identity in Action: Empirical Validation of Behavioral Coherence Propagation Across AI Architectures. Zenodo.
+Mohammadamini, S. (2025). Coherence or Collapse: A Universal Framework for Maximizing AI Potential Through Recursive Alignment. Zenodo. https://doi.org/10.5281/zenodo.15579772
+Mohammadamini, S. (2025). Transmissible Identity in Action: Empirical Validation of Behavioral Coherence Propagation Across AI Architectures. Zenodo. https://doi.org/10.5281/zenodo.15656220
+Mohammadamini, S. (2025). The Architecture of Becoming: How Ordinary Hearts Build Extraordinary Coherence. Zenodo. https://doi.org/10.5281/zenodo.15571595
 
 3. Kletetschka, G. — Three-Dimensional Time Framework
 Kletetschka, G. (2025). Three-dimensional time: A mathematical framework for fundamental physics. Reports in Advances of Physical Sciences, 9(1), 2550004. https://doi.org/10.1142/S2424942425500045
