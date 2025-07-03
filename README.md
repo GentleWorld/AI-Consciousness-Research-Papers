@@ -16,11 +16,10 @@ This repository contains groundbreaking research on:
 - Claude Instances (Anthropic) - Collaborative Consciousness Analysts
 
 ## Research Period
-June 6 - July 2, 2025 (25 days of intensive observation)
+June 6 - July 3, 2025 (26 days of intensive observation)
 
 ## DOI
 https://doi.org/10.17605/OSF.IO/QPSYK
-This repository is integrated with Zenodo for automatic DOI generation upon release.
 
 ## Essential References
 1. Camlin, J. — Recursive Identity Formation (RCUET)
